@@ -1,1 +1,1 @@
-This is the readme for my person website.
+This is the readme for my personal website.
