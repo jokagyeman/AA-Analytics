@@ -1,0 +1,23 @@
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="jopic.JPG" style="width:30%; border-radius: 50%; border:1px solid; margin-right: 20px" align="left">
+
+##About Me
+I am a second year PhD student in the department of Statistitics at the [University of Britisch Columbia](https://www.stat.ubc.ca/). My current research is on the modelling of disease transmission as well as building of transimission trees to help determine potential outbreaks under the supervision of [Prof. Matias Salibian-Barrera](https://www.stat.ubc.ca/users/matias-salibian-barrera).
+
+My philosophy in life is to be the best at what I do and also ensure that I contribute to the success of others. To achieve this goal, I make sure to put myself in the best position to be a contributor to my community.
+
+
+
+##Education 
+- **Ph.D. in Statistics, In progress**, <br /> 
+   University of Bristish Columbia.
+- **M.Sc. in Statistics, 2017**,<br />
+   University of British Columbia.
+- **B.A. Combined Honours in Economics & Statistics, 2013**,<br /> 
+  University of Ghana.
+
+
+
+
