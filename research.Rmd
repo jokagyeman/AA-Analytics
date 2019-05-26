@@ -1,0 +1,24 @@
+####Research Interests:
+
+* Multivariate models in Risk analysis and Time Series
+
+* Bayesian Modelling and applications
+
+* Robust Statistics
+
+* Statiscal Education
+
+
+
+####Projects:
+
+* Simulation study on robust estimators of regression model with heteroscedastic errors.
+
+* CWSEI Project on improving learning of Statistics in upper level statistics courses.
+
+
+
+#### Other work:
+
+* On the Choice of Scoring functions for forcast comparison, _Masters Thesis,2017._   
+* Development of Webwork questions and materials for STAT3XX/4XX courses at UBC, _CWSEI Project._
